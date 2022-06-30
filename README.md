@@ -2,6 +2,12 @@ This project is a code challenge completed for a job interview with NWEA.
 
 Project was created within Webstorm and bootstrapped with Create React App.
 
+Before running this project please run:
+
+### `npm install` 
+
+This will fetch and install all packages/libraries for the project.
+
 To run this project: 
 
 ### `npm start`
